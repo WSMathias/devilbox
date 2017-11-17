@@ -13,6 +13,9 @@
 # CUSTOM
 ######################################
 
+#Ignore all sites
+data/www/
+
 # Keep folders
 !.keepme
 
