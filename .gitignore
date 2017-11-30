@@ -13,13 +13,17 @@
 # CUSTOM
 ######################################
 
+#Ignore all the websites.
+data/www/*
+
+
 # Keep folders
 !.keepme
 
 # Ignore variable dat
 /.env
 /log/[a-z0-9-]*
-/data/
+#/data/
 /backups/
 
 # Ignore custom MySQL configs

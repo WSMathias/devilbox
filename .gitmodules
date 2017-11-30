@@ -1,0 +1,3 @@
+[submodule "data/www/reclaimtemples"]
+	path = data/www/reclaimtemples
+	url = git@github.com:srijanaravali/reclaimtemples.git
